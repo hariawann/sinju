@@ -1,0 +1,2 @@
+# sinju
+sistem informasi penjualan
